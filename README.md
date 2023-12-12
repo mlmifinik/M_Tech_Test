@@ -12,3 +12,5 @@
 `streamlit run 2_streamlit.py `
 
 ## Стек технологий - pandas, matplotlib, scipy, numpy, seaborn, streamlit, docker
+
+#### В репозиторий добавлен датасет (csv-файл) исправленный для корректной работы, оригинал по ссылке НЕ читался. Подробные комментарии оставил в jupiter notebook.
