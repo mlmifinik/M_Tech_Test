@@ -10,4 +10,4 @@ docker run -p 8501:8501 docker-server
 #### Запуск в интерактивном режиме:
 streamlit run 2_streamlit.py 
 
-## Стек технологий - pandas, matplotlib,, scipy, numpy, seaborn, streamlit, docker
+## Стек технологий - pandas, matplotlib, scipy, numpy, seaborn, streamlit, docker
