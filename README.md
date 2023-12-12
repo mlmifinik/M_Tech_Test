@@ -9,7 +9,7 @@
 #### Сервис будет доступен по адресу: http://localhost:8501
 
 #### Запуск в интерактивном режиме:
-`streamlit run 2_streamlit.py `
+`streamlit run 2_stream.py `
 
 ## Стек технологий - pandas, matplotlib, scipy, numpy, seaborn, streamlit, docker
 
