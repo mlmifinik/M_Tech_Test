@@ -3,12 +3,21 @@
 #### 2. Код проекта обернут в docker выложен в Github репозиторий.
 #### 3. Представлен дашборд на Streamlit с функционалом согласно требованиям задачи.
 
+#### Клонирование репозитория
+
+```commandline
+git clone https://github.com/mlmifinik/M_Tech_Test.git
+```
 
 #### Запуск контейнера docker:
-`docker run -p 8501:8501 docker-server` 
+```commandline
+docker run -p 8501:8501 docker-server
+```
 
 #### Запуск в интерактивном режиме из консоли:
-`streamlit run 2_streamlit.py `
+```commandline
+streamlit run 2_streamlit.py
+```
 
 #### Сервис будет доступен по адресу: http://localhost:8501
 
