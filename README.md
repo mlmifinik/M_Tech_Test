@@ -14,7 +14,7 @@ git clone https://github.com/mlmifinik/M_Tech_Test.git
 docker run -p 8501:8501 docker-server
 ```
 
-#### Запуск в интерактивном режиме из консоли:
+#### Запуск в интерактивном режиме:
 ```commandline
 streamlit run 2_streamlit.py
 ```
